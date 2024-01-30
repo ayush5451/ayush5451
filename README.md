@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and Web Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/meayushkumar/
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a Loser
 
 <!---
